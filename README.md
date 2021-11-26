@@ -1,4 +1,4 @@
-# for the thesis pyhton is used to get the results.
+# For the thesis pyhton is used to get the results.
 # In this Github you can find all files with code used.
 
 Datasets:
